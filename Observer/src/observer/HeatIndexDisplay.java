@@ -1,6 +1,6 @@
-package observer.observer;
+package observer;
 
-import observer.subject.WeatherData;
+import subject.WeatherData;
 
 public class HeatIndexDisplay implements Observer, DisplayElement {
 	float heatIndex = 0.0f;

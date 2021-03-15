@@ -1,6 +1,6 @@
-package observer.observer;
+package observer;
 
-import observer.subject.WeatherData;
+import subject.WeatherData;
 
 public class StatisticsDisplay implements Observer, DisplayElement {
 	private float maxTemp = 0.0f;

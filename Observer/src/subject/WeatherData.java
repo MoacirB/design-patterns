@@ -1,7 +1,7 @@
-package observer.subject;
+package subject;
 
 import java.util.ArrayList;
-import observer.observer.Observer;
+import observer.Observer;
 
 /**
  *

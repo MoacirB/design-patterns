@@ -1,6 +1,6 @@
-package observer.observer;
+package observer;
 
-import observer.subject.WeatherData;
+import subject.WeatherData;
 
 public class ForecastDisplay implements Observer, DisplayElement {
 	private float currentPressure = 29.92f;  

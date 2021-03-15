@@ -1,6 +1,6 @@
-package observer.subject;
+package subject;
 
-import observer.observer.Observer;
+import observer.Observer;
 
 /**
  *

@@ -1,7 +1,7 @@
-package observer.main;
+package main;
 
-import observer.observer.*;
-import observer.subject.WeatherData;
+import observer.*;
+import subject.WeatherData;
 
 public class WeatherStation {
     public static void main(String[] args) {

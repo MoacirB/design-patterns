@@ -1,7 +1,7 @@
-package observer.observer;
+package observer;
 
-import observer.subject.Subject;
-import observer.subject.WeatherData;
+import subject.Subject;
+import subject.WeatherData;
 
 /**
  *
