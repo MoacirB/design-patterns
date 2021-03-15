@@ -1,9 +1,9 @@
-package strategy.main;
+package main;
 
-import strategy.duck.ModelDuck;
-import strategy.duck.MallarDuck;
-import strategy.duck.fly.FlyRocketPowered;
-import strategy.duck.Duck;
+import duck.ModelDuck;
+import duck.MallarDuck;
+import duck.fly.FlyRocketPowered;
+import duck.Duck;
 
 
 /**

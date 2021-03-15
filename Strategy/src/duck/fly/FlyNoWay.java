@@ -1,4 +1,4 @@
-package strategy.duck.fly;
+package duck.fly;
 
 /**
  *

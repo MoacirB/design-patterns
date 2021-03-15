@@ -1,4 +1,4 @@
-package strategy.duck.quack;
+package duck.quack;
 
 /**
  *

@@ -1,7 +1,7 @@
-package strategy.duck;
+package duck;
 
-import strategy.duck.fly.FlyBehavior;
-import strategy.duck.quack.QuackBehavior;
+import duck.fly.FlyBehavior;
+import duck.quack.QuackBehavior;
 
 
 /**
