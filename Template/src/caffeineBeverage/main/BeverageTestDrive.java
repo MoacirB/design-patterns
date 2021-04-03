@@ -1,4 +1,4 @@
-package main;
+package caffeineBeverage.main;
 
 import caffeineBeverage.*;
 
