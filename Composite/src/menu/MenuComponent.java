@@ -31,5 +31,5 @@ public abstract class MenuComponent {
 		throw new UnsupportedOperationException();
 	}
 
-	public abstract Iterator<MenuComponent> createIterator();
+	public abstract Iterator<MenuComponent> createIterator();//Para criar menus personalizados
 }
